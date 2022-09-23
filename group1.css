@@ -1,0 +1,2158 @@
+.group1-container {
+  min-height: 100vh;
+}
+.group1-group1 {
+  width: 1297px;
+  height: 740px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-text {
+  top: 617px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-card-b-g {
+  top: 0px;
+  left: 2px;
+  width: 110px;
+  height: 740px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.group1-text002 {
+  top: 334px;
+  left: 1px;
+  color: var(--dl-color-primary-100);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text004 {
+  top: 424px;
+  left: 1px;
+  color: var(--dl-color-primary-100);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text006 {
+  top: 509px;
+  left: 1px;
+  color: var(--dl-color-primary-100);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text008 {
+  top: 594px;
+  color: var(--dl-color-primary-100);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text010 {
+  top: 679px;
+  left: 1px;
+  color: var(--dl-color-primary-100);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-vector {
+  top: 563px;
+  left: 46px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-heartbeat1 {
+  top: 304px;
+  left: 45px;
+  width: 27px;
+  height: 26px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.group1-heart {
+  top: 3.2251949310302734px;
+  left: 0.84375px;
+  width: 25.3125px;
+  height: 19.55405616760254px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-vector01 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 20px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-settings {
+  top: 647px;
+  left: 44px;
+  width: 29px;
+  height: 30px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-piechart21 {
+  top: 420px;
+  left: 73px;
+  width: 27.999998092651367px;
+  height: 29.000001907348633px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.group1-frame11 {
+  top: 1.8124998807907104px;
+  left: 1.7500001192092896px;
+  width: 24.499998092651367px;
+  height: 25.375001907348633px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-vector02{
+  width: 114px;
+  color: rgba(25,25,29,1);
+  position: absolute;
+  top: 424px;
+  left: 1px;
+  font-family: Red Hat Text;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: center;
+}
+.group1-timeanddate11 {
+  top: 478px;
+  left: 46px;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.group1-group {
+  top: 2.702394723892212px;
+  left: 10.915410995483398px;
+  width: 13.377002716064453px;
+  height: 23.29768943786621px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-group1 {
+  top: 0px;
+  left: 0px;
+  width: 13.377002716064453px;
+  height: 23.29768943786621px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-vector04 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 23px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-group2 {
+  top: 0.000013581233361037448px;
+  left: 1.707575798034668px;
+  width: 12.913872718811035px;
+  height: 23.297691345214844px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-group3 {
+  top: 0px;
+  left: 0px;
+  width: 12.913872718811035px;
+  height: 23.297691345214844px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 23px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-group4 {
+  top: 8.208812713623047px;
+  left: 12.232416152954102px;
+  width: 5.568746566772461px;
+  height: 8.587226867675781px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-group5 {
+  top: 0px;
+  left: 0px;
+  width: 5.568746566772461px;
+  height: 8.587226867675781px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-vector06 {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-text012 {
+  top: 248px;
+  color: rgba(47, 47, 47, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-logbook41 {
+  top: 216px;
+  left: 45px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-navigation-item-active {
+  top: 8px;
+  left: 8px;
+  width: 98px;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.group1-menu-b-g {
+  top: 0px;
+  left: 0px;
+  width: 98px;
+  height: 82px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 8px;
+  margin-bottom: 0;
+}
+.group1-layout {
+  top: 114px;
+  left: 39px;
+  width: 41px;
+  height: 36px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-text014 {
+  top: 150px;
+  left: 1px;
+  color: rgba(47, 47, 47, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-card13 {
+  top: 91px;
+  left: 121px;
+  width: 344px;
+  height: 360px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 1px 0px rgba(40, 41, 61, 0.47999998927116394) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group1-text016 {
+  top: 182px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text018 {
+  top: 106px;
+  left: 30px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text023 {
+  top: 81px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-divider {
+  top: 230px;
+  left: 17px;
+  width: 312px;
+  height: 1px;
+  opacity: 0.15;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: rgba(150, 150, 150, 1);
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-text025 {
+  top: 286px;
+  left: 32px;
+  color: rgba(93, 111, 136, 1);
+  width: 279px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text026 {
+  font-weight: 400;
+}
+.group1-text027 {
+  font-weight: 700;
+}
+.group1-text029 {
+  top: 255px;
+  left: 32px;
+  color: rgba(18, 18, 18, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-notouch1 {
+  top: 20px;
+  left: 64px;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-image8 {
+  top: 2px;
+  left: 32px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-merchant-navy-org-chart1024x7071 {
+  top: 20px;
+  left: 252px;
+  width: 71px;
+  height: 34px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-card131 {
+  top: 464px;
+  left: 121px;
+  width: 344px;
+  height: 276px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 1px 0px rgba(40, 41, 61, 0.47999998927116394) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group1-divider1 {
+  top: 162px;
+  left: 19px;
+  width: 312px;
+  height: 1px;
+  opacity: 0.15;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: rgba(150, 150, 150, 1);
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-text031 {
+  top: 209px;
+  left: 29px;
+  color: var(--dl-color-gray-60);
+  width: 141px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text033 {
+  top: 185px;
+  left: 29px;
+  color: rgba(0, 0, 0, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-double {
+  top: 181px;
+  left: 170px;
+  width: 131px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-text035 {
+  top: 28px;
+  left: -3px;
+  color: var(--dl-color-gray-60);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-caption-only {
+  top: 5px;
+  left: -2px;
+  width: 131px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-text037 {
+  top: -1px;
+  color: rgba(0, 0, 0, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-cargoship31 {
+  top: 11px;
+  left: 29px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-text039 {
+  top: 483px;
+  left: 269px;
+  color: rgba(28, 28, 28, 1);
+  width: 182px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: right;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text041 {
+  top: 581px;
+  left: 150px;
+  color: var(--dl-color-gray-60);
+  width: 196px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-caption-only1 {
+  top: 536px;
+  left: 151px;
+  width: 286px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.group1-text043 {
+  color: rgba(0, 0, 0, 1);
+  width: 286px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-card12 {
+  top: 91px;
+  left: 476px;
+  width: 429px;
+  height: 649px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.group1-image {
+  top: 0px;
+  left: 0px;
+  width: 429px;
+  height: 649px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 12px;
+  margin-bottom: 0;
+  background-color: rgba(235, 244, 255, 1);
+}
+.group1-overlay {
+  top: 0px;
+  left: 0px;
+  width: 429px;
+  height: 649px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-text048 {
+  top: 13px;
+  left: 27px;
+  color: rgba(19, 55, 116, 1);
+  width: 312px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-refreshing1 {
+  top: 23px;
+  left: 395px;
+  width: 13px;
+  height: 13px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-group6 {
+  top: -0.0000018584422605272266px;
+  left: 0.13000521063804626px;
+  width: 12.739999771118164px;
+  height: 13px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-vector07 {
+  top: 0px;
+  left: 5.069982051849365px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-vector08 {
+  top: 5.264997482299805px;
+  left: 0px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-lists-cells-chat-message {
+  top: 90px;
+  left: 22px;
+  width: 386px;
+  height: 152px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 12px;
+  margin-bottom: 0;
+  background-color: rgba(255, 250, 236, 1);
+}
+.group1-paperclip {
+  top: 14px;
+  left: 348px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-status {
+  top: 100px;
+  left: 275.1777648925781px;
+  width: 89.82221984863281px;
+  height: 29.14285659790039px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-done {
+  top: 0px;
+  left: 0px;
+  width: 89.82221984863281px;
+  height: 29.14285659790039px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.group1-button-b-g {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 29px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 99px;
+  margin-bottom: 0;
+}
+.group1-text050 {
+  top: 3px;
+  left: 16px;
+  color: var(--dl-color-default-whitebase);
+  width: 58px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 16px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-left {
+  top: 1px;
+  left: 4px;
+  width: 0px;
+  height: 0px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-right {
+  top: 1px;
+  left: 58px;
+  width: 0px;
+  height: 0px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-views {
+  top: 103px;
+  left: 30px;
+  width: 42px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-text052 {
+  left: 22px;
+  color: rgba(25, 25, 29, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 22px;
+}
+.group1-eye {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-lists-cells-chat-message1 {
+  top: 254px;
+  left: 22px;
+  width: 386px;
+  height: 152px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 12px;
+  margin-bottom: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group1-text053 {
+  top: 27px;
+  left: 30px;
+  color: rgba(244, 99, 99, 1);
+  width: 335px;
+  height: auto;
+  opacity: 0.80;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text054 {
+  font-weight: 700;
+}
+.group1-text056 {
+  top: 112px;
+  left: 30px;
+  color: var(--dl-color-gray-60);
+  width: 331px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: right;
+  font-family: Red Hat Text;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-lists-cells-chat-message2 {
+  top: 418px;
+  left: 22px;
+  width: 386px;
+  height: 152px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 12px;
+  margin-bottom: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group1-text058 {
+  top: 27px;
+  left: 30px;
+  color: rgba(244, 99, 99, 1);
+  width: 335px;
+  height: auto;
+  opacity: 0.80;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text059 {
+  font-weight: 700;
+}
+.group1-text061 {
+  top: 112px;
+  left: 30px;
+  color: var(--dl-color-gray-60);
+  width: 331px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: right;
+  font-family: Red Hat Text;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text063 {
+  top: 43px;
+  left: 25px;
+  color: var(--dl-color-gray-60);
+  width: 357px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-lists-cells-chat-message3 {
+  top: 673px;
+  left: 498px;
+  width: 386px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 12px 12px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group1-listof-items {
+  top: 91px;
+  left: 914px;
+  width: 344px;
+  height: 649px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.group1-background2dp {
+  top: 0px;
+  left: 0px;
+  width: 344px;
+  height: 649px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-card-b-g1 {
+  top: 0px;
+  left: 0px;
+  width: 344px;
+  height: 649px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 10px;
+  margin-bottom: 0;
+}
+.group1-checkbox11 {
+  top: 52.871673583984375px;
+  left: 50.46455001831055px;
+  width: 40px;
+  height: 63.44602966308594px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-rectangle103 {
+  top: 85px;
+  left: 24px;
+  width: 296px;
+  height: 65px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 8px;
+  margin-bottom: 0;
+}
+.group1-rectangle104 {
+  top: 159px;
+  left: 24px;
+  width: 296px;
+  height: 65px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: rgba(233, 84, 84, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0;
+  border-radius: 8px;
+  margin-bottom: 0;
+}
+.group1-rectangle105 {
+  top: 233px;
+  left: 24px;
+  width: 296px;
+  height: 65px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 8px;
+  margin-bottom: 0;
+}
+.group1-rectangle106 {
+  top: 307px;
+  left: 24px;
+  width: 296px;
+  height: 65px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 8px;
+  margin-bottom: 0;
+}
+.group1-rectangle107 {
+  top: 381px;
+  left: 24px;
+  width: 296px;
+  height: 65px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 8px;
+  margin-bottom: 0;
+}
+.group1-checkedinside {
+  top: 176px;
+  left: 36px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-checkedinside1 {
+  top: 250px;
+  left: 36px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-checkedinside2 {
+  top: 324px;
+  left: 36px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-checkedinside3 {
+  top: 398px;
+  left: 36px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-checkedfilled {
+  top: 102px;
+  left: 36px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-text065 {
+  top: 118px;
+  left: 78px;
+  color: var(--dl-color-gray-60);
+  width: 179px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text067 {
+  top: 193px;
+  left: 78px;
+  color: var(--dl-color-gray-60);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text069 {
+  top: 267px;
+  left: 78px;
+  color: rgba(90, 91, 106, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text070 {
+  color: var(--dl-color-gray-60);
+  font-weight: 400;
+}
+.group1-text072 {
+  top: 341px;
+  left: 78px;
+  color: var(--dl-color-gray-60);
+  width: 211px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text074 {
+  top: 415px;
+  left: 78px;
+  color: var(--dl-color-gray-60);
+  width: 211px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-caption-only2 {
+  top: 100px;
+  left: 78px;
+  width: 206px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-text076 {
+  color: rgba(0, 0, 0, 1);
+  width: 210px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: line-through;
+}
+.group1-caption-only3 {
+  top: 175px;
+  left: 78px;
+  width: 188px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-text078 {
+  color: rgba(233, 84, 84, 1);
+  width: 209px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-caption-only4 {
+  top: 249px;
+  left: 78px;
+  width: 188px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-text080 {
+  color: rgba(0, 0, 0, 1);
+  width: 234px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-caption-only5 {
+  top: 323px;
+  left: 78px;
+  width: 188px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-text082 {
+  color: rgba(0, 0, 0, 1);
+  width: 234px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text084 {
+  top: 397px;
+  left: 78px;
+  color: rgba(0, 0, 0, 1);
+  width: 234px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-morehorizontal {
+  top: 88px;
+  left: 297px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-morehorizontal1 {
+  top: 164px;
+  left: 297px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-morehorizontal2 {
+  top: 238px;
+  left: 296px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-morehorizontal3 {
+  top: 312px;
+  left: 296px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-morehorizontal4 {
+  top: 386px;
+  left: 296px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-cloudy1 {
+  top: 18px;
+  left: 292px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-text086 {
+  top: 12px;
+  left: 26px;
+  color: var(--dl-color-primary-100);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text088 {
+  top: 229px;
+  left: 529px;
+  color: var(--dl-color-primary-100);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text090 {
+  top: 198px;
+  left: 529px;
+  color: rgba(233, 84, 84, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-button-icon-light {
+  top: 20px;
+  left: 37px;
+  width: 41px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.group1-icon {
+  top: 2.999981641769409px;
+  left: 2.9285507202148438px;
+  width: 35px;
+  height: 36px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-home {
+  top: 2.250019073486328px;
+  left: 1.0981398820877075px;
+  width: 33px;
+  height: 34px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-text092 {
+  top: 64px;
+  left: 1px;
+  color: rgba(19, 55, 116, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text094 {
+  top: 134px;
+  left: 940px;
+  color: var(--dl-color-gray-60);
+  width: 357px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-input-master {
+  top: 678px;
+  left: 936px;
+  width: 301px;
+  height: 44px;
+  display: flex;
+  padding: 6px 12px;
+  position: absolute;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(120, 120, 133, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 8px;
+  background-color: var(--dl-color-default-white100);
+}
+.group1-text096 {
+  top: 13px;
+  left: 56px;
+  color: rgba(120, 120, 133, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  line-height: 142.99999475479126%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-plus1 {
+  top: 12px;
+  left: 15px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-group7 {
+  top: 3px;
+  left: 3px;
+  width: 14px;
+  height: 14px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-group8 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 14px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group1-vector09 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.group1-background2dp1 {
+  top: 0px;
+  left: 122px;
+  width: 1136px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.group1-card-b-g2 {
+  top: 0px;
+  left: -1px;
+  width: 1137px;
+  height: 80px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 8px;
+  margin-bottom: 0;
+}
+.group1-dropdown {
+  top: 21px;
+  left: 936px;
+  width: 120px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-outline-b-g {
+  top: 0px;
+  left: 0px;
+  width: 120px;
+  height: 39px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: rgba(180, 180, 187, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0;
+  border-radius: 10px;
+  margin-bottom: 0;
+}
+.group1-text098 {
+  top: 6.09375px;
+  left: 16px;
+  color: var(--dl-color-primary-100);
+  width: 88px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-button-icon-light1 {
+  top: 16px;
+  left: 1072px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-button-b-g1 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 99px;
+  margin-bottom: 0;
+}
+.group1-power {
+  top: 12px;
+  left: 12px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.group1-text100 {
+  top: 42px;
+  left: 80px;
+  color: rgba(25, 25, 29, 1);
+  width: 297px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-text101 {
+  color: var(--dl-color-primary-100);
+  font-weight: 400;
+}
+.group1-caption-only6 {
+  top: 21px;
+  left: 80px;
+  width: 245px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.group1-text103 {
+  top: -2px;
+  color: var(--dl-color-primary-100);
+  width: 245px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Red Hat Text;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.group1-vikingship21 {
+  top: 25px;
+  left: 30px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
